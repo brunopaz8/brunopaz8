@@ -1,5 +1,6 @@
 <h1 align="center">Hi there! <img src="wave.gif" height="45" width="45" /></h1>
 
+
 ```java
 @RestController
 @RequestMapping("/about")
@@ -19,8 +20,13 @@ public class AboutMe {
 
 ## 🔥 Sobre mim  
 💡 **Quero aprender mais** e adquirir novas experiências no mundo da tecnologia.  
-💻 Atualmente, tenho conhecimento em **Python**, **Spring Boot** e **bancos de dados SQL** para criar soluções escaláveis e eficientes.
+💻 Atualmente, tenho conhecimento em:
+- 🐍 **Python**
+- ☕ **Spring Boot**
+- 🗄️ **SQL Databases**
 
 ### 📬 Contato  
 📌 [LinkedIn](https://www.linkedin.com/in/brunopaz8/)  
 📧 **E-mail:** bp.nascimento12@gmail.com
+
+
