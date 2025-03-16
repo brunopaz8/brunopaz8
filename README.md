@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there! <img src="wave.gif" height="45" width="45" /></h1>
 
-<!--
-**brunopaz8/brunopaz8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+@RestController
+@RequestMapping("/about")
+public class AboutMe {
 
-Here are some ideas to get you started:
+    @GetMapping
+    public Developer getDeveloper() {
+        return new Developer(
+            "Bruno Prazeres",
+            List.of("Python", "Spring Boot", "SQL Databases"),
+            "https://www.linkedin.com/in/brunopaz8/",
+            "bp.nascimento12@gmail.com"
+        );
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Sobre mim  
+💡 **Quero aprender mais** e adquirir novas experiências no mundo da tecnologia.  
+💻 Atualmente, tenho conhecimento em **Python**, **Spring Boot** e **bancos de dados SQL** para criar soluções escaláveis e eficientes.
+
+### 📬 Contato  
+📌 [LinkedIn](https://www.linkedin.com/in/brunopaz8/)  
+📧 **E-mail:** bp.nascimento12@gmail.com
