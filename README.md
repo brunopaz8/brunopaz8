@@ -24,6 +24,7 @@ public class AboutMe {
 - 🐍 **Python**
 - ☕ **Spring Boot**
 - 🗄️ **SQL Databases**
+- 🅰️ **Angular**
 
 ### 📬 Contato  
 📌 [LinkedIn](https://www.linkedin.com/in/brunopaz8/)  
