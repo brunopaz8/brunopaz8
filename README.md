@@ -23,7 +23,6 @@ public class AboutMe {
 💻 Atualmente, tenho conhecimento em:
 - 🐍 **Python**
 - ☕ **Spring Boot**
-- 🗄️ **SQL Databases**
 - 🅰️ **Angular**
 
 ### 📬 Contato  
