@@ -10,7 +10,7 @@ public class AboutMe {
     public Developer getDeveloper() {
         return new Developer(
             "Bruno Prazeres",
-            List.of("Python", "Spring Boot", "SQL Databases"),
+            List.of("Python", "Spring Boot", "Angular"),
             "https://www.linkedin.com/in/brunopaz8/",
             "bp.nascimento12@gmail.com"
         );
