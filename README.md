@@ -17,22 +17,13 @@ public class AboutMe {
     }
 }
 ```
-<div align="center" width= 400px >
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopaz8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
+</p>
 
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" 
-         width="160" height="100" 
-         style="margin: 5px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-         width="150" height="80" 
-         style="margin: 5px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-         width="150" height="70" 
-         style="margin: 5px" />
-</div>
 
 ## 🔥 Sobre mim  
 
