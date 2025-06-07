@@ -142,7 +142,7 @@ Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade pa
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="220" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=brunopaz8&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -150,7 +150,7 @@ Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade pa
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="220" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopaz8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
